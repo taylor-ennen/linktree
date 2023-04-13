@@ -1,5 +1,4 @@
-# Linktree:sparkles:
-This is a free (and easy to use) alternative to linktree 
+# Linktree:
 <div class = "coffee">
  <a class = "link" href="https://cash.app/$cloudfaith" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
