@@ -4,16 +4,7 @@ This is a free (and easy to use) alternative to linktree
  <a class = "link" href="https://cash.app/$cloudfaith" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
        style="height: 40px !important;width: 144px !important;">
- </a>
-
----
- 
-## Demo
-
-<a href="https://demo.alisa.social" target="_blank">My Linktree Page</a>
-   
-<img src="/images/demo.jpg" alt="alt text" width="300px">
- 
+ </a> 
 ---
 
 ## Where to host your website (for free)? 
